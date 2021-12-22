@@ -1,0 +1,24 @@
+[06:03:02]: Error: TIMEOUT
+    at D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:218:15
+    at async waitForAppReady (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:176:5)
+    at async Object.startService (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:36:3)
+    at async Creator.init (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\lib\pipeline\init.js:10:7)
+    at async Creator.run (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\lib\Runner.js:65:7)
+[06:04:02]: Error: TIMEOUT
+    at D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:218:15
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processTimers (internal/timers.js:491:9)
+    at async waitForAppReady (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:176:5)
+    at async Object.startService (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:36:3)
+    at async Creator.init (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\lib\pipeline\init.js:10:7)
+    at async Creator.run (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\lib\Runner.js:65:7)
+[06:12:44]: Error: connect ECONNREFUSED 127.0.0.1:8899
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+[06:19:28]: Error: TIMEOUT
+    at D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:218:15
+    at async waitForAppReady (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:176:5)
+    at async Object.startService (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\node_modules\@gem-mine\cli-service\script\pm2.js:36:3)
+    at async Creator.init (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\lib\pipeline\init.js:10:7)
+    at async Creator.run (D:\Application\nvm\v14.5.0\node_modules\@gem-mine\cli\lib\Runner.js:65:7)
+[06:20:24]: Error: connect ECONNREFUSED 127.0.0.1:8899
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
